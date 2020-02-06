@@ -1,0 +1,15 @@
+.center {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.sub-title {
+  font-size: 20px;
+  margin-top: -20px;
+}
+
+.joke {
+  font-size: 36px;
+  font-style: italic;
+  margin: 15px;
+}
