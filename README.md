@@ -1,2 +1,8 @@
-# angular-azure-functions-azure-ad
-Base code and basic explanation for creating an Angular web app that authenticates with Azure AD and calls an Azure Function endpoint
+# Angular, Azure Functions and Azure AD
+
+To run the sample, do the following:
+ 1. Create an app registration.
+ 2. Deploy the Azure Function to your Azure account.
+ 3. Replace the values in the environment.ts file with your specific URLs, IDs and scopes.
+
+For more details, you can check [the blog post](https://www.pshul.com).
