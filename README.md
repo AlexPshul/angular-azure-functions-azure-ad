@@ -6,3 +6,4 @@ To run the sample, do the following:
  3. Replace the values in the environment.ts file with your specific URLs, IDs and scopes.
 
 For more details, you can check [the blog post](https://www.pshul.com).
+![enter image description here](https://www.pshul.com/wp-content/uploads/2020/02/FinalResultJoke.png)
