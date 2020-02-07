@@ -7,5 +7,5 @@ To run the sample, do the following:
  2. Deploy the Azure Function to your Azure account.
  3. Replace the values in the environment.ts file with your specific URLs, IDs and scopes.
 
-For more details, you can check [the blog post](https://www.pshul.com).
+For more details, you can check [the blog post](https://www.pshul.com/2020/02/07/azure-ad-authentication-from-angular-to-azure-functions/).
 ![enter image description here](https://www.pshul.com/wp-content/uploads/2020/02/FinalResultJoke.png)
