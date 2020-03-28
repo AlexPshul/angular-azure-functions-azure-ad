@@ -4,11 +4,12 @@
 
 export const environment = {
   production: false,
-  jokeUrl: "<joke-url>",
-  aadClientId: "<aad-app-id>",
+  jokeUrl: "https://angular-azure-functions-azure-ad.azurewebsites.net/api/geek-joke",
+  aadClientId: "92a3f4fb-d457-4e16-bc2b-187852b9b97d",
   redirectUrl: "http://localhost:4200/",
-  aadUserReadScope: "<aad-app-scope>",
-  apiBaseUrl: "<base-url-of-joke-url>",
+  aadUserReadScope: "api://92a3f4fb-d457-4e16-bc2b-187852b9b97d/default",
+  apiBaseUrl: "https://angular-azure-functions-azure-ad.azurewebsites.net/",
+
 };
 
 /*
